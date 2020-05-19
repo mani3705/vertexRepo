@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="vertexSuite>">
+    <test name="trainingTest">
+        <classes>
+            <class name="TestVertex"></class>
+        </classes>
+    </test>
+</suite>
